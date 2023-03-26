@@ -1,3 +1,3 @@
 ***Plugins vs-code***	
-###Extensiones
+### Extensiones
 This site was built using [GitHub Pages](https://pages.github.com/).
