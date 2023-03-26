@@ -1,1 +1,1 @@
-# plugins
+*** Plugins vs-code ***	
