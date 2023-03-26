@@ -1,3 +1,3 @@
 ***Plugins vs-code***	
 ### Extensiones
-This site was built using [GitHub Pages](https://pages.github.com/).
+* [Laravel Blade Snippets]([https://pages.github.com/](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)).
