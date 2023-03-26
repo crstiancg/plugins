@@ -1,1 +1,1 @@
-*** Plugins vs-code ***	
+***Plugins vs-code***	
